@@ -1,8 +1,18 @@
 body{
     font-family: 'Times New Roman', Verdana, Georgia, sans-serif;
+    background-color: rgb(242, 205, 142);
+    inline-size: 800px;    /* Text wrap*/
 }
 
 img{
     height: auto;
-    width: 675px;
+    width: 675px;           /* Image size*/
 }
+
+#title{
+    background-color: rgb(191, 83, 83);
+}
+/*
+    ps = potato salad
+    fr = fried rice
+*/
