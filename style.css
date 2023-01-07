@@ -1,11 +1,32 @@
 *{
-    box-sizing: border-box;
+    box-sizing: border-box; /* Alternate CSS box model*/
+}
+
+a{
+    display: inline-block;
+    border: 1px rgba(65, 105, 44, 0.464);
+    border-style:dotted;
+    padding: 5px 5px;
+    margin: 5px;
+
 }
 
 body{
     font-family: 'Times New Roman', Verdana, Georgia, sans-serif;
     background-color: rgb(242, 205, 142);
     inline-size: 800px;    /* Text wrap*/
+    /*border-top-color: 
+      border-color: 
+      border-style: */
+
+
+      /*
+      Margins:
+
+      and 
+
+      padding:
+      */
 }
 
 img{
